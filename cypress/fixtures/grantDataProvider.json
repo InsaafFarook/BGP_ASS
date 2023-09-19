@@ -1,0 +1,13 @@
+{
+  "grantData" : {
+    "name": "Sam",
+    "jobTitle": "Sales Manager",
+    "contactNo": "94538732",
+    "email": "sam_12@gmail.com",
+    "altEmail": "tom_cruse@gmail.com",
+    "selectSameAsCompanyAddress": true,
+    "selectSameAsMainContact": true,
+    "postalCode": "518457",
+    "eligibilityInputs": [true, true, true, true, true]
+  } 
+}

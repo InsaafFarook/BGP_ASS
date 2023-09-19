@@ -1,0 +1,16 @@
+{
+    "LoginData" : {
+      "username" : "temp-cognizant",
+      "password": "bgPB3Aw3SomeCogF@lk!",
+      "entityId": "BGPQETECH",
+      "userId": "S1234567A",
+      "userRole": "Acceptor", 
+      "userFullName": "Tan Ah Kow",
+      "postalCode": "650320",
+      "block": "320",
+      "street": "BUKIT BATOK STREET 33",
+      "level": "03",
+      "unit": "33",
+      "buildingName": ""
+    }
+}

@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# npm package lock file
+package-lock.json
+
+# Cypress Test Results
+/cypress/downloads
+/cypress/videos
+/cypress/screenshots
+/cypress/report

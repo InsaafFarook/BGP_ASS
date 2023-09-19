@@ -23,7 +23,7 @@ There are 5 main folders inside the Cypress folder.
 ## fixtures
 All test data required for the tests are placed here.
 
-## e2d
+## e2e
 All the test files are placed here.
 
 ## lib
